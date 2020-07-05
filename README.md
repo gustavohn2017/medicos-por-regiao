@@ -1,0 +1,2 @@
+# medicos-por-regiao
+Análise feita por Gustavo Henrique Nascimento     Esta análise tem como principal objetivo fazer um comparativo sobre a proporção de médicos ativos nas regiões do Brasil.     Os dados desta análise foram retirados do portal do CFM (link "http://portal.cfm.org.br/index.php?option=com_estatistica&amp;buscarPor=R&amp;ufEstatistica=&amp;regiaoEstatistica=S&amp;situacaoEstatistica=A&amp;detalheSituacaoEstatistica=&amp;sexoEstatistica=")  e foram atualizados no dia 03/07/2020 
